@@ -1,0 +1,4 @@
+
+gcc(
+  target => 'arm-none-eabi'
+);
